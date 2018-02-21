@@ -35,7 +35,7 @@ INJECTED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\Androi
 INJECTED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:3:5-44
+		ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -108,7 +108,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Derek\.gradle\caches
 		ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.derek.socialmedia.MainActivity
+activity#com.example.derek.cs4398app.MainActivity
 ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
 		ADDED from C:\Users\Derek\Documents\GitHub\CS4398-Project\app\src\main\AndroidManifest.xml:14:13-45
@@ -304,7 +304,7 @@ ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\cach
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:24:72-107
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:24:17-71
-permission#com.example.derek.socialmedia.permission.C2D_MESSAGE
+permission#com.example.derek.cs4398app.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:24:5-109
 	android:protectionLevel
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:24:72-107
@@ -314,7 +314,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:26:5-78
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:26:22-76
-uses-permission#com.example.derek.socialmedia.permission.C2D_MESSAGE
+uses-permission#com.example.derek.cs4398app.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:26:5-78
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:26:22-76
@@ -328,7 +328,7 @@ ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\cach
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:31:13-34:29
-intent-filter#com.example.derek.socialmedia+com.google.android.c2dm.intent.RECEIVE
+intent-filter#com.example.derek.cs4398app+com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:32:17-80
@@ -338,7 +338,7 @@ category#${applicationId}
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:33:17-60
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:33:27-58
-category#com.example.derek.socialmedia
+category#com.example.derek.cs4398app
 ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:33:17-60
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Derek\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\1b7953cea944f62dbb70df45d120854b\AndroidManifest.xml:33:27-58

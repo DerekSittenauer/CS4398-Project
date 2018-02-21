@@ -796,7 +796,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_settings">Settings</string>
-    <string name="app_name">SocialMedia</string>
+    <string name="app_name">CS4398app</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
@@ -817,19 +817,19 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">259549119994-dbqa8g2gbetp7di4v3vce6m9l9somgpg.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://socialmedia-d6e4a.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">259549119994</string>
-    <string name="google_api_key" translatable="false">AIzaSyA4zDF_02qDPEEEn02KQKXzI5xKKxpXqbA</string>
-    <string name="google_app_id" translatable="false">1:259549119994:android:d21eb00b17250ee9</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4zDF_02qDPEEEn02KQKXzI5xKKxpXqbA</string>
-    <string name="google_storage_bucket" translatable="false">socialmedia-d6e4a.appspot.com</string>
+    <string name="default_web_client_id" translatable="false">247402155402-1s83p5d6h0rt704b3mf1913l486re4tp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cs4398-project.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">247402155402</string>
+    <string name="google_api_key" translatable="false">AIzaSyAxcge91_iDG3CjnkgrKBz7Zj9CjHgNZhs</string>
+    <string name="google_app_id" translatable="false">1:247402155402:android:37dfb0b8a96b4e98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAxcge91_iDG3CjnkgrKBz7Zj9CjHgNZhs</string>
+    <string name="google_storage_bucket" translatable="false">cs4398-project.appspot.com</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="project_id" translatable="false">socialmedia-d6e4a</string>
+    <string name="project_id" translatable="false">cs4398-project</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
