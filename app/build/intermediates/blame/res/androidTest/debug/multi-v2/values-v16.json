@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Derek\\Documents\\GitHub\\CS4398-Project\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/Volumes/Macintosh HD/Users/andressosa/AndroidStudioProjects/CS4398-Project/C:\\Users\\Derek\\Documents\\GitHub\\CS4398-Project\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Derek\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5fee47c059a51dcc135d4f56bbb2e51d\\res\\values-v16\\values-v16.xml",
+                    "source": "/Volumes/Macintosh HD/Users/andressosa/AndroidStudioProjects/CS4398-Project/C:\\Users\\Derek\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5fee47c059a51dcc135d4f56bbb2e51d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Derek\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c306b9367eceb390eb3dd43b8f769856\\res\\values-v16\\values-v16.xml",
+                    "source": "/Volumes/Macintosh HD/Users/andressosa/AndroidStudioProjects/CS4398-Project/C:\\Users\\Derek\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\c306b9367eceb390eb3dd43b8f769856\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Macintosh HD/Users/andressosa/AndroidStudioProjects/CS4398-Project/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/andressosa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/53587b03cd392725be22bc715aac2248/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/andressosa/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/5c9729633ce453906d5ca2e6e59b19b9/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
