@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu May 03 16:47:44 CDT 2018
+1.base=C\:\\Users\\Derek\\Documents\\GitHub\\CS4398-Project\\Twitter\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\40
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Derek\\Documents\\GitHub\\CS4398-Project\\Twitter\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+1.path=classes.dex

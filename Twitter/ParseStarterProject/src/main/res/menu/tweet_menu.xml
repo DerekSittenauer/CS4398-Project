@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tweet"
+        android:title="Post"
+        android:enabled="true"
+        android:icon="@drawable/ic_create_black_24dp"/>
+
+    <item
+        android:title="Your Feed"
+        android:id="@+id/viewFeed"
+        android:enabled="true"
+        android:icon="@drawable/ic_format_align_justify_black_24dp"/>
+
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"
+        android:enabled="true"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>
